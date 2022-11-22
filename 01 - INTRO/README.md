@@ -15,7 +15,7 @@ En este módulo veremos las siguientes cosas.
 2. **Prácticas de Introducción**
 
 - [Prácticas](./practicas//README.md)
--[Practicas realizadas] (./practicas2//README.md)
+- [Practicas realizadas] (./practicas2//README.md)
 Para entrar a los contenidos solo tienes que dar click en el título y empezará la aventura.
 
 **_¡Vámonos hasta el espacio y más allá Explorers!_**
