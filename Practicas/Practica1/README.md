@@ -8,4 +8,7 @@
   ![Target Audience](https://user-images.githubusercontent.com/114269186/203377890-7a6cfc20-ce1c-4944-b826-548dc74dfede.jpg)
 
   - [Crea tu primer Wireframe UX]
+  https://miro.com/welcomeonboard/RmY3RTg5b1BwWWZkcFA2R2VOUXNmVDVGQUlVbnJvRFFlYjk5Mnd1MWRyaEx1a3ptekl1ZTJKaEV0Y2xTcFBneHwzNDU4NzY0NTM2MTY2NzE0ODEzfDI=?share_link_id=609275381063 
+  ![Flowchart](https://user-images.githubusercontent.com/114269186/203399942-0db064d7-5e52-4492-9fa5-ec56cde06d7d.jpg)
+
   - [Ahora el UI]
